@@ -4,9 +4,9 @@ dataLocation = './data/headsq/half'
 
 vtkColors = vtk.vtkNamedColors()
 
-vtkColors.SetColor('SkinColor', [240, 184, 160, 255])
+vtkColors.SetColor('SkinColor', [140, 184, 200, 255])
 vtkColors.SetColor('BackfaceColor', [255, 229, 200, 255])
-vtkColors.SetColor('BkgColor', [51, 77, 102, 255])
+vtkColors.SetColor('BkgColor', [151, 77, 202, 255])
 
 renderer = vtk.vtkRenderer()
 renderingWindow = vtk.vtkRenderWindow()

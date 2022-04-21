@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>9c7d31f8-b57c-4f6f-8d96-9e40f3639673</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>1.CT_Head_Volume16.py</StartupFile>
+    <StartupFile>3.quadratic_function_sampling.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
