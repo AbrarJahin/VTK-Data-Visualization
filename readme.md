@@ -14,16 +14,31 @@ Write an interactive VTK program to explore the iso-surfaces of a volume data se
 
 Solution of the 3 problems are given in-
 
-1. ***1.CT_Head_Volume16.py***
+1. ***[1.CT_Head_Volume16.py](./1.CT_Head_Volume16.py)***
 
-2. ***2.Iron_Protein_vtk.py***
+2. ***[2.Iron_Protein_vtk.py](./2.Iron_Protein_vtk.py)***
 
-3. ***3.quadratic_function_sampling.py***
+3. ***[3.quadratic_function_sampling.py](./3.quadratic_function_sampling.py)***
 
-### Environment install command-
+### Environment install command
+
 ```
 conda env remove -n offline3 -y
 conda env update --file environment.yml
 ```
 
-#Code Output
+Requirements can be found in [here](./environment.yml).
+
+# Code Output
+
+1. For the code, output is like this-
+
+![image info](./.doc/1.jpg)
+
+2. For the code, output is like this-
+
+![image info](./.doc/2.jpg)
+
+3. For the code, output is like this-
+
+![image info](./.doc/3.jpg)
