@@ -1,0 +1,11 @@
+name: offline3
+
+channels:
+  - anaconda
+  - cvxgrp
+  - conda-forge
+  - defaults
+dependencies:
+  - python==3.6.8
+  - pip:
+    - vtk==9.1.0
